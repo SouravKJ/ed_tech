@@ -6,7 +6,7 @@ import { assets } from '../../assets/assets'
 import humanizeDuration from 'humanize-duration'
 import YouTube from 'react-youtube'
 import Footer from '../../components/student/footer'
-import Rating from '../../components/student/rating'
+import Rating from '../../components/student/Rating'
 
 
 const Player = () => {
