@@ -153,7 +153,7 @@ Module 1 → Module 2 → Module 3 → ...
 ## 🔄 Application Flow
   The basic user flow of LMS_Protel is:
 
-                      ┌──────────────┐
+                    ┌──────────────┐
                     │  Home Page   │
                     └──────┬───────┘
                            │
@@ -183,6 +183,34 @@ Module 1 → Module 2 → Module 3 → ...
                               All Course Modules
   
   ---
+
+## 📂 Project Structure
+
+```text
+LMS_Protel/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── context/
+│   ├── hooks/
+│   ├── services/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── screenshots/
+│
+├── .env
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
 
   ## 📸 Screenshots 
   
