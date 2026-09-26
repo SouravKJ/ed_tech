@@ -143,9 +143,11 @@ Module 1 → Module 2 → Module 3 → ...
    Create a .env file in the root directory.
       VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 ### 5. Run the Development Server
-   npm run dev
-   The application will usually be available at:
-       http://localhost:5173
+    npm run dev
+  
+  The application will usually be available at:
+      
+      http://localhost:5173     
 ---
 
 ## 🔄 Application Flow
@@ -192,21 +194,21 @@ Module 1 → Module 2 → Module 3 → ...
 
   
 
-  📚 Course List
+  ### 📚 Course List
 
   
 
-  🔍 Course Search
+  ### 🔍 Course Search
 
   
 
-  📖 Course Details
+  ### 📖 Course Details
 
   
 
   🎥 Course Preview
 
-  ---
+  
 
   🎓 Enrolled Course
 
@@ -288,8 +290,8 @@ Module 1 → Module 2 → Module 3 → ...
 ---
 
 ## 👨‍💻 Author
-  Sourav Kumar Jha
-  GitHub:
+ - Sourav Kumar Jha
+ - GitHub: [https://github.com/SouravKJ/ed_tech/tree/main ]
 
 ---
 
