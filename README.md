@@ -206,15 +206,15 @@ Module 1 → Module 2 → Module 3 → ...
 
   
 
-  🎥 Course Preview
+  ### 🎥 Course Preview
 
   
 
-  🎓 Enrolled Course
+  ### 🎓 Enrolled Course
 
   
 
-  📚 Course Modules
+  ### 📚 Course Modules
 
 
 ---
@@ -291,7 +291,7 @@ Module 1 → Module 2 → Module 3 → ...
 
 ## 👨‍💻 Author
  - Sourav Kumar Jha
- - GitHub: [https://github.com/SouravKJ/ed_tech/tree/main ]
+ - GitHub: [@SouravKJ](https://github.com/SouravKJ/ed_tech/tree/main)
 
 ---
 
